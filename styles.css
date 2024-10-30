@@ -1,0 +1,28 @@
+/* styles.css */
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 10px 10px 10px 10px;
+}
+
+h1 {
+    font-size: 48px;
+    background-color: greenyellow;
+    color: black;
+}
+
+h2 {
+    font-size: 36;
+    background-color: blue;
+    color: white;
+}
+
+ul {
+    list-style: circle;
+}
+
+a {
+    font-size: 24px;
+    color: chocolate;
+    text-decoration: none;
+}
